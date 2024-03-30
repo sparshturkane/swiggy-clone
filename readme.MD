@@ -1,3 +1,4 @@
+*DAY 1*
 # Commands used 
 
 
@@ -18,4 +19,6 @@
 - `npx expo install react-native-screens react-native-safe-area-context`
 - `npm install @react-navigation/native-stack`
 - https://reactnavigation.org/docs/hello-react-navigation#creating-a-native-stack-navigator
-   
+
+*DAY 2*
+https://www.youtube.com/watch?v=AkEnidfZnCU (33.37)
